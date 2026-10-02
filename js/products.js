@@ -45,7 +45,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.4,
     "reviews": 193,
-    "image": "images/smartphones/a56.svg",
+    "image": "images/smartphones/a56.jpg",
     "description": "6.7-inch Super AMOLED, Exynos 1580, 8GB RAM, 128GB, 50MP OIS camera, 5000mAh, Android 15",
     "specifications": {
       "Display": "6.7-inch Super AMOLED",
@@ -150,7 +150,7 @@ const PRODUCTS = [
     "discount": 14,
     "rating": 4.7,
     "reviews": 412,
-    "image": "images/smartphones/iphone15.svg",
+    "image": "images/smartphones/iphone15.jpg",
     "description": "6.1-inch Super Retina XDR, A16 Bionic, 6GB RAM, 128GB, 48MP camera, USB-C, iOS 18",
     "specifications": {
       "Display": "6.1-inch Super Retina XDR",
@@ -255,7 +255,7 @@ const PRODUCTS = [
     "discount": 6,
     "rating": 4.5,
     "reviews": 631,
-    "image": "images/smartphones/pixel9.svg",
+    "image": "images/smartphones/pixel9.jpg",
     "description": "6.3-inch OLED 120Hz, Tensor G4, 12GB RAM, 256GB, 50MP dual camera, 4700mAh, Android 15",
     "specifications": {
       "Display": "6.3-inch OLED 120Hz",
@@ -325,7 +325,7 @@ const PRODUCTS = [
     "discount": 7,
     "rating": 4.7,
     "reviews": 777,
-    "image": "images/smartphones/xiaomi15.svg",
+    "image": "images/smartphones/xiaomi15.jpg",
     "description": "6.36-inch AMOLED 120Hz, Snapdragon 8 Elite, 12GB RAM, 256GB, Leica 50MP triple camera, 5240mAh",
     "specifications": {
       "Display": "6.36-inch AMOLED 120Hz",
@@ -395,7 +395,7 @@ const PRODUCTS = [
     "discount": 9,
     "rating": 4.4,
     "reviews": 923,
-    "image": "images/smartphones/nothing3.svg",
+    "image": "images/smartphones/nothing3.jpg",
     "description": "6.7-inch AMOLED 120Hz, Snapdragon 8s Gen 3, 12GB RAM, 256GB, 50MP dual camera, 5150mAh",
     "specifications": {
       "Display": "6.7-inch AMOLED 120Hz",
@@ -430,7 +430,7 @@ const PRODUCTS = [
     "discount": 14,
     "rating": 4.5,
     "reviews": 996,
-    "image": "images/smartphones/edge60.svg",
+    "image": "images/smartphones/edge60.jpg",
     "description": "6.67-inch pOLED 120Hz, Dimensity 7400, 8GB RAM, 256GB, 50MP OIS, 5200mAh",
     "specifications": {
       "Display": "6.67-inch pOLED 120Hz",
@@ -569,7 +569,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.3,
     "reviews": 129,
-    "image": "images/laptops/mbp-m4.svg",
+    "image": "images/laptops/mbp-m4.jpg",
     "description": "14.2-inch Liquid Retina XDR, Apple M4, 16GB RAM, 512GB SSD, 10-core GPU, macOS",
     "specifications": {
       "Processor": "Apple M4",
@@ -603,7 +603,7 @@ const PRODUCTS = [
     "discount": 9,
     "rating": 4.4,
     "reviews": 170,
-    "image": "images/laptops/xps14.svg",
+    "image": "images/laptops/xps14.jpg",
     "description": "14.5-inch 3.2K display, Intel Core Ultra 7, 16GB RAM, 1TB SSD, RTX 4050, Windows 11",
     "specifications": {
       "Processor": "Intel Core Ultra 7",
@@ -705,7 +705,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.7,
     "reviews": 293,
-    "image": "images/laptops/spectre-x360.svg",
+    "image": "images/laptops/spectre-x360.jpg",
     "description": "14-inch 2.8K OLED touch, Intel Core Ultra 7, 16GB RAM, 1TB SSD, Intel Arc graphics, Windows 11",
     "specifications": {
       "Processor": "Intel Core Ultra 7",
@@ -739,7 +739,7 @@ const PRODUCTS = [
     "discount": 12,
     "rating": 4.2,
     "reviews": 334,
-    "image": "images/laptops/legion5.svg",
+    "image": "images/laptops/legion5.jpg",
     "description": "15.6-inch QHD 165Hz, Ryzen 7, 16GB RAM, 1TB SSD, RTX 4060, Windows 11",
     "specifications": {
       "Processor": "Ryzen 7",
@@ -773,7 +773,7 @@ const PRODUCTS = [
     "discount": 12,
     "rating": 4.3,
     "reviews": 375,
-    "image": "images/laptops/ideapad-slim.svg",
+    "image": "images/laptops/ideapad-slim.jpg",
     "description": "15.6-inch FHD OLED, Ryzen 7, 16GB RAM, 512GB SSD, Radeon graphics, Windows 11",
     "specifications": {
       "Processor": "Ryzen 7",
@@ -841,7 +841,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.5,
     "reviews": 457,
-    "image": "images/laptops/swift-go.svg",
+    "image": "images/laptops/swift-go.jpg",
     "description": "14-inch 2.8K OLED, Intel Core Ultra 5, 16GB RAM, 512GB SSD, Intel Arc graphics, Windows 11",
     "specifications": {
       "Processor": "Intel Core Ultra 5",
@@ -1131,7 +1131,7 @@ const PRODUCTS = [
     "discount": 8,
     "rating": 4.2,
     "reviews": 67,
-    "image": "images/tablets/ipad-air.svg",
+    "image": "images/tablets/ipad-air.jpg",
     "description": "11-inch Liquid Retina, Apple M3, 8GB RAM, 128GB, Wi-Fi, iPadOS",
     "specifications": {
       "Display": "11-inch Liquid Retina",
@@ -1164,7 +1164,7 @@ const PRODUCTS = [
     "discount": 9,
     "rating": 4.3,
     "reviews": 86,
-    "image": "images/tablets/ipad-pro.svg",
+    "image": "images/tablets/ipad-pro.jpg",
     "description": "11-inch Ultra Retina XDR, Apple M4, 8GB RAM, 256GB, Wi-Fi, iPadOS",
     "specifications": {
       "Display": "11-inch Ultra Retina XDR",
@@ -1197,7 +1197,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.4,
     "reviews": 105,
-    "image": "images/tablets/galaxy-tab-s10.svg",
+    "image": "images/tablets/galaxy-tab-s10.jpg",
     "description": "12.4-inch Dynamic AMOLED 2X, Dimensity 9300+, 12GB RAM, 256GB, Android",
     "specifications": {
       "Display": "12.4-inch Dynamic AMOLED 2X",
@@ -1537,7 +1537,7 @@ const PRODUCTS = [
     "discount": 8,
     "rating": 4.3,
     "reviews": 141,
-    "image": "images/gaming/xbox-series-x.svg",
+    "image": "images/gaming/xbox-series-x.jpg",
     "description": "4K gaming console, 1TB SSD, up to 120 FPS, Quick Resume, wireless controller",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1565,7 +1565,7 @@ const PRODUCTS = [
     "discount": 13,
     "rating": 4.4,
     "reviews": 172,
-    "image": "images/gaming/switch-oled.svg",
+    "image": "images/gaming/switch-oled.jpg",
     "description": "7-inch OLED display, 64GB storage, dock with LAN port, handheld and TV modes",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1593,7 +1593,7 @@ const PRODUCTS = [
     "discount": 13,
     "rating": 4.5,
     "reviews": 203,
-    "image": "images/gaming/dualsense.svg",
+    "image": "images/gaming/dualsense.jpg",
     "description": "Haptic feedback, adaptive triggers, built-in microphone, motion sensor, USB-C",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1677,7 +1677,7 @@ const PRODUCTS = [
     "discount": 18,
     "rating": 4.3,
     "reviews": 296,
-    "image": "images/gaming/razer-blackwidow.svg",
+    "image": "images/gaming/razer-blackwidow.jpg",
     "description": "Mechanical gaming keyboard, tactile switches, RGB lighting, programmable keys",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1705,7 +1705,7 @@ const PRODUCTS = [
     "discount": 17,
     "rating": 4.4,
     "reviews": 327,
-    "image": "images/gaming/logitech-g502.svg",
+    "image": "images/gaming/logitech-g502.jpg",
     "description": "Lightweight gaming mouse, 25K sensor, hybrid switches, programmable buttons",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1733,7 +1733,7 @@ const PRODUCTS = [
     "discount": 7,
     "rating": 4.1,
     "reviews": 150,
-    "image": "images/audio/airpods-pro2.svg",
+    "image": "images/audio/airpods-pro2.jpg",
     "description": "Active Noise Cancellation, Transparency mode, USB-C charging case, spatial audio",
     "specifications": {
       "Audio": "High fidelity",
@@ -2166,7 +2166,7 @@ const PRODUCTS = [
     "discount": 25,
     "rating": 4.2,
     "reviews": 246,
-    "image": "images/accessories/spigen65w.svg",
+    "image": "images/accessories/spigen65w.jpg",
     "description": "65W GaN charger, USB-C PD, multiple ports, travel-friendly",
     "specifications": {
       "Type": "65W GaN Charger",
@@ -2194,7 +2194,7 @@ const PRODUCTS = [
     "discount": 16,
     "rating": 4.3,
     "reviews": 264,
-    "image": "images/accessories/sandisk1tb.svg",
+    "image": "images/accessories/sandisk1tb.jpg",
     "description": "1TB portable SSD, USB 3.2, up to 1050MB/s, compact metal body",
     "specifications": {
       "Type": "1TB Portable SSD",
@@ -2222,7 +2222,7 @@ const PRODUCTS = [
     "discount": 14,
     "rating": 4.4,
     "reviews": 282,
-    "image": "images/accessories/logitech-k380.svg",
+    "image": "images/accessories/logitech-k380.jpg",
     "description": "Compact Bluetooth keyboard, multi-device pairing, 2-year battery life",
     "specifications": {
       "Type": "K380 Bluetooth Keyboard",
@@ -2334,7 +2334,7 @@ const PRODUCTS = [
     "discount": 25,
     "rating": 4.2,
     "reviews": 354,
-    "image": "images/accessories/amazonbasics-hdmi.svg",
+    "image": "images/accessories/amazonbasics-hdmi.jpg",
     "description": "2-meter HDMI cable supporting 8K, 48Gbps bandwidth, eARC",
     "specifications": {
       "Type": "Ultra High Speed HDMI Cable",
@@ -2362,7 +2362,7 @@ const PRODUCTS = [
     "discount": 20,
     "rating": 4.3,
     "reviews": 372,
-    "image": "images/accessories/boatwatchcharger.svg",
+    "image": "images/accessories/boatwatchcharger.jpg",
     "description": "Desktop charging stand for phone, earbuds and smartwatch, USB-C input",
     "specifications": {
       "Type": "3-in-1 Charging Stand",

@@ -10,7 +10,7 @@ const PRODUCTS = [
     "discount": 7,
     "rating": 4.3,
     "reviews": 120,
-    "image": "images/smartphones/s25.svg",
+    "image": "images/smartphones/s25.jpg",
     "description": "6.4-inch Dynamic AMOLED 2X, Snapdragon 8 Elite, 12GB RAM, 256GB, 50MP camera, 4000mAh, Android 15",
     "specifications": {
       "Display": "Dynamic AMOLED 2X",
@@ -80,7 +80,7 @@ const PRODUCTS = [
     "discount": 13,
     "rating": 4.5,
     "reviews": 266,
-    "image": "images/smartphones/iphone16.svg",
+    "image": "images/smartphones/iphone16.jpg",
     "description": "6.1-inch Super Retina XDR, A18 chip, 8GB RAM, 128GB, 48MP camera, all-day battery, iOS 18",
     "specifications": {
       "Display": "6.1-inch Super Retina XDR",
@@ -115,7 +115,7 @@ const PRODUCTS = [
     "discount": 8,
     "rating": 4.6,
     "reviews": 339,
-    "image": "images/smartphones/iphone16pro.svg",
+    "image": "images/smartphones/iphone16pro.jpg",
     "description": "6.3-inch Super Retina XDR ProMotion, A18 Pro, 8GB RAM, 128GB, 48MP triple camera, iOS 18",
     "specifications": {
       "Display": "6.3-inch Super Retina XDR ProMotion",
@@ -220,7 +220,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.4,
     "reviews": 558,
-    "image": "images/smartphones/nord5.svg",
+    "image": "images/smartphones/nord5.jpg",
     "description": "6.83-inch AMOLED 144Hz, Snapdragon 8s Gen 3, 8GB RAM, 128GB, 50MP OIS, 6800mAh",
     "specifications": {
       "Display": "6.83-inch AMOLED 144Hz",
@@ -290,7 +290,7 @@ const PRODUCTS = [
     "discount": 9,
     "rating": 4.6,
     "reviews": 704,
-    "image": "images/smartphones/pixel9pro.svg",
+    "image": "images/smartphones/pixel9pro.jpg",
     "description": "6.3-inch LTPO OLED, Tensor G4, 16GB RAM, 256GB, 50MP triple camera, 4700mAh, Android 15",
     "specifications": {
       "Display": "6.3-inch LTPO OLED",
@@ -875,7 +875,7 @@ const PRODUCTS = [
     "discount": 16,
     "rating": 4.1,
     "reviews": 54,
-    "image": "images/televisions/sam55qled.svg",
+    "image": "images/televisions/sam55qled.jpg",
     "description": "55-inch 4K QLED, Quantum Processor, 120Hz, HDR10+, Tizen OS",
     "specifications": {
       "Screen Size": "55-inch 4K QLED",
@@ -1067,7 +1067,7 @@ const PRODUCTS = [
     "discount": 14,
     "rating": 4.199999999999999,
     "reviews": 216,
-    "image": "images/televisions/op55.svg",
+    "image": "images/televisions/op55.jpg",
     "description": "55-inch 4K QLED, Gamma Color Engine, 60Hz, HDR10+, Google TV",
     "specifications": {
       "Screen Size": "55-inch 4K QLED",
@@ -1263,7 +1263,7 @@ const PRODUCTS = [
     "discount": 15,
     "rating": 4.2,
     "reviews": 143,
-    "image": "images/tablets/xiaomi-pad7.svg",
+    "image": "images/tablets/xiaomi-pad7.jpg",
     "description": "11.2-inch 3.2K 144Hz, Snapdragon 7+ Gen 3, 8GB RAM, 128GB, Android",
     "specifications": {
       "Display": "11.2-inch 3.2K 144Hz",
@@ -1329,7 +1329,7 @@ const PRODUCTS = [
     "discount": 13,
     "rating": 4.1,
     "reviews": 45,
-    "image": "images/smartwatches/watch-s11.svg",
+    "image": "images/smartwatches/watch-s11.jpg",
     "description": "1.5-inch Super AMOLED, Exynos W1000, GPS, heart-rate tracking, Wear OS",
     "specifications": {
       "Display": "1.5-inch Super AMOLED",
@@ -1359,7 +1359,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.199999999999999,
     "reviews": 68,
-    "image": "images/smartwatches/watch-ultra.svg",
+    "image": "images/smartwatches/watch-ultra.jpg",
     "description": "49mm Retina LTPO OLED, S9 SiP, GPS + Cellular, 100m water resistance, watchOS",
     "specifications": {
       "Display": "49mm Retina LTPO OLED",
@@ -1389,7 +1389,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.3,
     "reviews": 91,
-    "image": "images/smartwatches/watch10.svg",
+    "image": "images/smartwatches/watch10.jpg",
     "description": "42mm LTPO OLED, S10 SiP, GPS, health sensors, watchOS",
     "specifications": {
       "Display": "42mm LTPO OLED",
@@ -1419,7 +1419,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.3999999999999995,
     "reviews": 114,
-    "image": "images/smartwatches/pixel-watch3.svg",
+    "image": "images/smartwatches/pixel-watch3.jpg",
     "description": "45mm Actua display, Snapdragon W5 Gen 1, GPS, Fitbit health tracking, Wear OS",
     "specifications": {
       "Display": "45mm Actua display",
@@ -1509,7 +1509,7 @@ const PRODUCTS = [
     "discount": 8,
     "rating": 4.2,
     "reviews": 110,
-    "image": "images/gaming/ps5-slim.svg",
+    "image": "images/gaming/ps5-slim.jpg",
     "description": "4K gaming console with ultra-high speed SSD, ray tracing, HDR, DualSense controller",
     "specifications": {
       "Connectivity": "USB / Wireless",
@@ -1762,7 +1762,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.199999999999999,
     "reviews": 179,
-    "image": "images/audio/galaxy-buds3pro.svg",
+    "image": "images/audio/galaxy-buds3pro.jpg",
     "description": "Adaptive ANC, 24-bit audio, IP57, Galaxy AI features, wireless charging",
     "specifications": {
       "Audio": "High fidelity",
@@ -1820,7 +1820,7 @@ const PRODUCTS = [
     "discount": 23,
     "rating": 4.3999999999999995,
     "reviews": 237,
-    "image": "images/audio/jbl-live770.svg",
+    "image": "images/audio/jbl-live770.jpg",
     "description": "Adaptive ANC, 40mm drivers, 65-hour battery, multipoint, JBL app",
     "specifications": {
       "Audio": "High fidelity",
@@ -1849,7 +1849,7 @@ const PRODUCTS = [
     "discount": 14,
     "rating": 4.5,
     "reviews": 266,
-    "image": "images/audio/jbl-flip7.svg",
+    "image": "images/audio/jbl-flip7.jpg",
     "description": "Portable Bluetooth speaker, IP67, 14-hour playtime, powerful bass",
     "specifications": {
       "Audio": "High fidelity",
@@ -1878,7 +1878,7 @@ const PRODUCTS = [
     "discount": 13,
     "rating": 4.6,
     "reviews": 295,
-    "image": "images/audio/sony-ultfield1.svg",
+    "image": "images/audio/sony-ultfield1.jpg",
     "description": "Portable wireless speaker, ULT bass boost, IP67, 12-hour battery",
     "specifications": {
       "Audio": "High fidelity",
@@ -1936,7 +1936,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.199999999999999,
     "reviews": 353,
-    "image": "images/audio/nothing-ear.svg",
+    "image": "images/audio/nothing-ear.jpg",
     "description": "Hi-Res audio, ANC, dual connection, up to 40.5-hour total battery",
     "specifications": {
       "Audio": "High fidelity",
@@ -1965,7 +1965,7 @@ const PRODUCTS = [
     "discount": 9,
     "rating": 4.2,
     "reviews": 39,
-    "image": "images/cameras/sony-a7c2.svg",
+    "image": "images/cameras/sony-a7c2.jpg",
     "description": "33MP full-frame mirrorless, BIONZ XR, 4K video, 5-axis stabilization, interchangeable lens",
     "specifications": {
       "Sensor": "33MP full-frame mirrorless",
@@ -1994,7 +1994,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.3,
     "reviews": 60,
-    "image": "images/cameras/canon-r8.svg",
+    "image": "images/cameras/canon-r8.jpg",
     "description": "24.2MP full-frame mirrorless, 4K 60p, Dual Pixel CMOS AF II, RF mount",
     "specifications": {
       "Sensor": "24.2MP full-frame mirrorless",
@@ -2023,7 +2023,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.4,
     "reviews": 81,
-    "image": "images/cameras/nikon-z6iii.svg",
+    "image": "images/cameras/nikon-z6iii.jpg",
     "description": "24.5MP full-frame mirrorless, 6K RAW video, EXPEED 7, 5-axis VR",
     "specifications": {
       "Sensor": "24.5MP full-frame mirrorless",
@@ -2052,7 +2052,7 @@ const PRODUCTS = [
     "discount": 12,
     "rating": 4.5,
     "reviews": 102,
-    "image": "images/cameras/fujifilm-xs20.svg",
+    "image": "images/cameras/fujifilm-xs20.jpg",
     "description": "26.1MP APS-C, 6.2K video, 5-axis stabilization, subject detection AF",
     "specifications": {
       "Sensor": "26.1MP APS-C",
@@ -2081,7 +2081,7 @@ const PRODUCTS = [
     "discount": 11,
     "rating": 4.2,
     "reviews": 123,
-    "image": "images/cameras/instax-mini12.svg",
+    "image": "images/cameras/instax-mini12.jpg",
     "description": "Instant camera, automatic exposure, close-up mode, built-in flash, credit-card prints",
     "specifications": {
       "Sensor": "Instant camera",
@@ -2110,7 +2110,7 @@ const PRODUCTS = [
     "discount": 17,
     "rating": 4.0,
     "reviews": 210,
-    "image": "images/accessories/anker20k.svg",
+    "image": "images/accessories/anker20k.jpg",
     "description": "20,000mAh power bank, USB-C PD, dual USB outputs, compact design",
     "specifications": {
       "Type": "PowerCore 20K Power Bank",
@@ -2138,7 +2138,7 @@ const PRODUCTS = [
     "discount": 15,
     "rating": 4.1,
     "reviews": 228,
-    "image": "images/accessories/apple20w.svg",
+    "image": "images/accessories/apple20w.jpg",
     "description": "20W USB-C fast charging adapter, compact design, wide voltage support",
     "specifications": {
       "Type": "20W USB-C Power Adapter",
@@ -2278,7 +2278,7 @@ const PRODUCTS = [
     "discount": 10,
     "rating": 4.0,
     "reviews": 318,
-    "image": "images/accessories/samsung-t7.svg",
+    "image": "images/accessories/samsung-t7.jpg",
     "description": "1TB portable SSD, USB 3.2 Gen 2, AES encryption, rugged IP65 design",
     "specifications": {
       "Type": "T7 Shield 1TB",
@@ -2306,7 +2306,7 @@ const PRODUCTS = [
     "discount": 18,
     "rating": 4.1,
     "reviews": 336,
-    "image": "images/accessories/belkin6in1.svg",
+    "image": "images/accessories/belkin6in1.jpg",
     "description": "USB-C hub with HDMI, USB-A, SD, microSD and PD pass-through",
     "specifications": {
       "Type": "6-in-1 USB-C Hub",
